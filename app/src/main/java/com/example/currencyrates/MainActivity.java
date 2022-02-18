@@ -37,15 +37,7 @@ Adapter adapter;
         adapter = new Adapter(list, getApplicationContext());
         rv.setAdapter(adapter);
 
-
-
-
-
-
     }
-
-
-
 
     public void getList() {
         AsyncHttpClient asyncHttpClient = new AsyncHttpClient();
